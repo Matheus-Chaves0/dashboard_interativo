@@ -146,6 +146,10 @@ Contribuições são bem-vindas!
    ```bash
    git checkout -b feature/NovaFuncionalidade
 
+---
+
+## Link do streamlite:
+https://dashboardinterativo-salarios.streamlit.app/
 
 ---
 
